@@ -1,0 +1,9 @@
+key.py
+Key.py
+.env
+key_gcp.py
+token.json
+key_gcp.pymyenv/
+__pycache__/
+*.log
+.vscode/

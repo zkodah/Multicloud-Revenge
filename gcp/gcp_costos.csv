@@ -1,0 +1,708 @@
+Day,Project Name,Project ID,Project Number,Servicio,Costo,Descuentos,Promociones y otros,Subtotal
+2025-03-20,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,8.735832,0.000000,0.000000,8.735832
+2025-03-20,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,1.511546,0.000000,0.000000,1.511546
+2025-03-20,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,0.961566,0.000000,0.000000,0.961566
+2025-03-20,Snowflake,datos-433017,964471574790,Cloud Composer,0.289480,0.000000,0.000000,0.289480
+2025-03-20,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,0.170123,0.000000,0.000000,0.170123
+2025-03-20,,,,Support,0.039180,0.000000,0.000000,0.039180
+2025-03-20,Snowflake,datos-433017,964471574790,Cloud Monitoring,0.034948,0.000000,0.000000,0.034948
+2025-03-20,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.030042,0.000000,0.000000,0.030042
+2025-03-20,Preventa,preventa-406613,594282942700,Compute Engine,0.000007,0.000000,0.000000,0.000007
+2025-03-20,Snowflake,datos-433017,964471574790,Compute Engine,0.000007,0.000000,0.000000,0.000007
+2025-03-20,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Networking,0.000979,-0.000979,0.000000,0.000000
+2025-03-20,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI Search,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI Search,0.000000,0.000000,0.000000,0.000000
+2025-03-20,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,telconor,telconor,26233976157,cPanel & WHM Web Hosting Panel for Ubuntu - BYOL,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,Snowflake,datos-433017,964471574790,Networking,0.013350,-0.013350,0.000000,0.000000
+2025-03-20,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.002670,-0.002670,0.000000,0.000000
+2025-03-20,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,0.010680,-0.010680,0.000000,0.000000
+2025-03-20,telconor,telconor,26233976157,Networking,0.002670,-0.002670,0.000000,0.000000
+2025-03-20,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-20,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,1950.039328,0.000000,0.000000,1950.039328
+2025-03-19,,,,Support,287.635517,0.000000,0.000000,287.635517
+2025-03-19,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,162.555920,0.000000,0.000000,162.555920
+2025-03-19,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,144.130212,0.000000,0.000000,144.130212
+2025-03-19,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,19.492239,0.000000,0.000000,19.492239
+2025-03-19,Snowflake,datos-433017,964471574790,Cloud Composer,15.811725,0.000000,0.000000,15.811725
+2025-03-19,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,15.691322,0.000000,0.000000,15.691322
+2025-03-19,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,12.339351,0.000000,0.000000,12.339351
+2025-03-19,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,11.209472,-0.256320,0.000000,10.953152
+2025-03-19,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,9.276823,0.000000,0.000000,9.276823
+2025-03-19,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,5.735649,0.000000,0.000000,5.735649
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.956292,0.000000,0.000000,4.956292
+2025-03-19,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,4.867060,0.000000,0.000000,4.867060
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,3.810457,0.000000,0.000000,3.810457
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,3.707081,0.000000,0.000000,3.707081
+2025-03-19,telconor,telconor,26233976157,Compute Engine,2.756327,0.000000,0.000000,2.756327
+2025-03-19,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,2.730629,0.000000,0.000000,2.730629
+2025-03-19,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,2.637170,-0.018690,0.000000,2.618480
+2025-03-19,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,2.618480,0.000000,0.000000,2.618480
+2025-03-19,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,2.618479,0.000000,0.000000,2.618479
+2025-03-19,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.015833,0.000000,0.000000,2.015833
+2025-03-19,Snowflake,datos-433017,964471574790,Compute Engine,1.998254,0.000000,0.000000,1.998254
+2025-03-19,Preventa,preventa-406613,594282942700,Networking,1.314576,-0.005340,0.000000,1.309236
+2025-03-19,Snowflake,datos-433017,964471574790,Networking,1.804191,-0.494955,0.000000,1.309236
+2025-03-19,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.109756,0.000000,0.000000,1.109756
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery Reservation API,0.971327,0.000000,0.000000,0.971327
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.452813,0.000000,0.000000,0.452813
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Reservation API,0.401296,0.000000,0.000000,0.401296
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.271973,0.000000,0.000000,0.271973
+2025-03-19,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.261839,0.000000,0.000000,0.261839
+2025-03-19,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,0.196977,0.000000,0.000000,0.196977
+2025-03-19,Snowflake,datos-433017,964471574790,BigQuery,0.137241,0.000000,0.000000,0.137241
+2025-03-19,Preventa,preventa-406613,594282942700,Compute Engine,0.048745,0.000000,0.000000,0.048745
+2025-03-19,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,0.048134,0.000000,0.000000,0.048134
+2025-03-19,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.047377,0.000000,0.000000,0.047377
+2025-03-19,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.019710,0.000000,0.000000,0.019710
+2025-03-19,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.016514,0.000000,0.000000,0.016514
+2025-03-19,Snowflake,datos-433017,964471574790,Cloud Storage,0.015584,0.000000,0.000000,0.015584
+2025-03-19,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-19,Snowflake,datos-433017,964471574790,Artifact Registry,0.010130,0.000000,0.000000,0.010130
+2025-03-19,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-19,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,0.004615,0.000000,0.000000,0.004615
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001020,0.000000,0.000000,0.001020
+2025-03-19,Snowflake,datos-433017,964471574790,Dataplex,0.000029,0.000000,0.000000,0.000029
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI Search,0.480600,0.000000,-0.480600,0.000000
+2025-03-19,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Networking,0.088110,-0.088110,0.000000,0.000000
+2025-03-19,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.234960,-0.234960,0.000000,0.000000
+2025-03-19,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Preventa,preventa-406613,594282942700,Cloud Pub/Sub,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Preventa,preventa-406613,594282942700,VM Manager,0.005340,-0.005340,0.000000,0.000000
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI Search,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-private-interconnect,gtd-private-interconnect,549706777962,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Monitoring,0.000000,0.000000,0.000000,0.000000
+2025-03-19,telconor,telconor,26233976157,cPanel & WHM Web Hosting Panel for Ubuntu - BYOL,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-monitoring-001,gtd-prj-monitoring-001,787596661561,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Networking,0.034710,-0.034710,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Preventa,preventa-406613,594282942700,Cloud Monitoring,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-gcve-uah-001,gtd-prj-prod-gcve-uah-001,206659077032,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-19,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,Invoice,96.009893,0.000000,-96.009893,0.000000
+2025-03-19,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Contact Center,contact-center-430619,38687230605,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,proyecto-prueba-video,proyecto-prueba-video-429220,359504021258,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1889.832200,0.000000,-1889.832200,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Networking,0.053400,-0.053400,0.000000,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-19,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,1969.151952,0.000000,0.000000,1969.151952
+2025-03-18,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1924.128000,0.000000,0.000000,1924.128000
+2025-03-18,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,1305.873804,0.000000,0.000000,1305.873804
+2025-03-18,,,,Support,407.263083,0.000000,0.000000,407.263083
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,335.466595,0.000000,0.000000,335.466595
+2025-03-18,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,288.624282,0.000000,0.000000,288.624282
+2025-03-18,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,198.904310,0.000000,0.000000,198.904310
+2025-03-18,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,67.200056,0.000000,0.000000,67.200056
+2025-03-18,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,53.519587,0.000000,0.000000,53.519587
+2025-03-18,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,21.937092,0.000000,0.000000,21.937092
+2025-03-18,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,19.199992,0.000000,0.000000,19.199992
+2025-03-18,Snowflake,datos-433017,964471574790,Cloud Composer,16.944638,0.000000,0.000000,16.944638
+2025-03-18,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,16.032370,0.000000,0.000000,16.032370
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,13.583078,-0.256320,0.000000,13.326758
+2025-03-18,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,7.647487,0.000000,0.000000,7.647487
+2025-03-18,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,5.621790,0.000000,0.000000,5.621790
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,5.351375,0.000000,0.000000,5.351375
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.700685,0.000000,0.000000,4.700685
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,4.353137,0.000000,0.000000,4.353137
+2025-03-18,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,3.340970,0.000000,0.000000,3.340970
+2025-03-18,telconor,telconor,26233976157,Compute Engine,3.312692,0.000000,0.000000,3.312692
+2025-03-18,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,3.203990,0.000000,0.000000,3.203990
+2025-03-18,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,3.203987,0.000000,0.000000,3.203987
+2025-03-18,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,3.228017,-0.024030,0.000000,3.203987
+2025-03-18,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.466586,0.000000,0.000000,2.466586
+2025-03-18,Snowflake,datos-433017,964471574790,Compute Engine,2.394212,0.000000,0.000000,2.394212
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Reservation API,1.643522,0.000000,0.000000,1.643522
+2025-03-18,Snowflake,datos-433017,964471574790,Networking,2.135984,-0.533992,0.000000,1.601992
+2025-03-18,Preventa,preventa-406613,594282942700,Networking,1.601992,0.000000,0.000000,1.601992
+2025-03-18,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.109448,0.000000,0.000000,1.109448
+2025-03-18,Preventa,preventa-406613,594282942700,Cloud Storage,0.814735,0.000000,0.000000,0.814735
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.754792,0.000000,0.000000,0.754792
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery Reservation API,0.652051,0.000000,0.000000,0.652051
+2025-03-18,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.320392,0.000000,0.000000,0.320392
+2025-03-18,Snowflake,datos-433017,964471574790,Cloud Storage,0.192919,0.000000,0.000000,0.192919
+2025-03-18,Snowflake,datos-433017,964471574790,BigQuery,0.188208,0.000000,0.000000,0.188208
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.120797,0.000000,0.000000,0.120797
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Storage,0.088285,0.000000,0.000000,0.088285
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.056229,0.000000,0.000000,0.056229
+2025-03-18,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Storage,0.052119,0.000000,0.000000,0.052119
+2025-03-18,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.024133,0.000000,0.000000,0.024133
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.023896,0.000000,0.000000,0.023896
+2025-03-18,Snowflake,datos-433017,964471574790,Artifact Registry,0.012402,0.000000,0.000000,0.012402
+2025-03-18,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Storage,0.010640,0.000000,0.000000,0.010640
+2025-03-18,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001248,0.000000,0.000000,0.001248
+2025-03-18,Preventa,preventa-406613,594282942700,Compute Engine,0.000837,0.000000,0.000000,0.000837
+2025-03-18,Snowflake,datos-433017,964471574790,Dataplex,0.000040,0.000000,0.000000,0.000040
+2025-03-18,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Storage,0.000003,0.000000,0.000000,0.000003
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000001,0.000000,0.000000,0.000001
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-gcve-uah-001,gtd-prj-prod-gcve-uah-001,206659077032,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-18,Preventa,preventa-406613,594282942700,Cloud Monitoring,0.000000,0.000000,0.000000,0.000000
+2025-03-18,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.256320,-0.256320,0.000000,0.000000
+2025-03-18,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,Preventa,preventa-406613,594282942700,Cloud Pub/Sub,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Networking,0.029370,-0.029370,0.000000,0.000000
+2025-03-18,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,Biiling,biiling-424319,342265124103,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Networking,0.029370,-0.029370,0.000000,0.000000
+2025-03-18,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-private-interconnect,gtd-private-interconnect,549706777962,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-analitica-google,prime-apricot-429120-j5,890025842002,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-18,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-18,telconor,telconor,26233976157,cPanel & WHM on Ubuntu,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-18,telconor,telconor,26233976157,cPanel & WHM Web Hosting Panel for Ubuntu - BYOL,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Networking,0.109470,-0.109470,0.000000,0.000000
+2025-03-18,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-18,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-18,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI Search,0.366680,0.000000,-0.366680,0.000000
+2025-03-18,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,1969.151952,0.000000,0.000000,1969.151952
+2025-03-17,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1924.128000,0.000000,0.000000,1924.128000
+2025-03-17,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,1329.816660,0.000000,0.000000,1329.816660
+2025-03-17,,,,Support,411.593510,0.000000,0.000000,411.593510
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,396.228345,0.000000,0.000000,396.228345
+2025-03-17,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,281.733542,0.000000,0.000000,281.733542
+2025-03-17,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,198.904301,0.000000,0.000000,198.904301
+2025-03-17,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,66.361205,0.000000,0.000000,66.361205
+2025-03-17,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,53.519669,0.000000,0.000000,53.519669
+2025-03-17,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,21.937086,0.000000,0.000000,21.937086
+2025-03-17,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,19.199983,0.000000,0.000000,19.199983
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,17.572761,-0.256320,0.000000,17.316441
+2025-03-17,Snowflake,datos-433017,964471574790,Cloud Composer,16.944025,0.000000,0.000000,16.944025
+2025-03-17,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,14.376006,0.000000,0.000000,14.376006
+2025-03-17,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,7.647490,0.000000,0.000000,7.647490
+2025-03-17,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,5.648751,0.000000,0.000000,5.648751
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,4.530516,0.000000,0.000000,4.530516
+2025-03-17,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.346949,0.000000,0.000000,4.346949
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,4.173515,0.000000,0.000000,4.173515
+2025-03-17,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,3.340984,0.000000,0.000000,3.340984
+2025-03-17,telconor,telconor,26233976157,Compute Engine,3.327728,0.000000,0.000000,3.327728
+2025-03-17,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,3.203986,0.000000,0.000000,3.203986
+2025-03-17,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,3.222676,-0.018690,0.000000,3.203986
+2025-03-17,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,3.203986,0.000000,0.000000,3.203986
+2025-03-17,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.466585,0.000000,0.000000,2.466585
+2025-03-17,Snowflake,datos-433017,964471574790,Compute Engine,2.394980,0.000000,0.000000,2.394980
+2025-03-17,Preventa,preventa-406613,594282942700,Networking,1.604655,-0.002670,0.000000,1.601985
+2025-03-17,Snowflake,datos-433017,964471574790,Networking,2.135971,-0.533986,0.000000,1.601985
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Reservation API,1.334864,0.000000,0.000000,1.334864
+2025-03-17,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.108210,0.000000,0.000000,1.108210
+2025-03-17,Preventa,preventa-406613,594282942700,Cloud Storage,0.814752,0.000000,0.000000,0.814752
+2025-03-17,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.320385,0.000000,0.000000,0.320385
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.301976,0.000000,0.000000,0.301976
+2025-03-17,Snowflake,datos-433017,964471574790,Cloud Storage,0.193323,0.000000,0.000000,0.193323
+2025-03-17,Snowflake,datos-433017,964471574790,BigQuery,0.188208,0.000000,0.000000,0.188208
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Storage,0.088285,0.000000,0.000000,0.088285
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.055180,0.000000,0.000000,0.055180
+2025-03-17,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Storage,0.052119,0.000000,0.000000,0.052119
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.026240,0.000000,0.000000,0.026240
+2025-03-17,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.024124,0.000000,0.000000,0.024124
+2025-03-17,Snowflake,datos-433017,964471574790,Artifact Registry,0.012395,0.000000,0.000000,0.012395
+2025-03-17,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Storage,0.010735,0.000000,0.000000,0.010735
+2025-03-17,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-17,Preventa,preventa-406613,594282942700,Compute Engine,0.003082,0.000000,0.000000,0.003082
+2025-03-17,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001248,0.000000,0.000000,0.001248
+2025-03-17,Snowflake,datos-433017,964471574790,Dataplex,0.000035,0.000000,0.000000,0.000035
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000011,0.000000,0.000000,0.000011
+2025-03-17,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Storage,0.000003,0.000000,0.000000,0.000003
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-dev-shd-net-001,gtd-prj-dev-shd-net-001,182314910960,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-17,Preventa,preventa-406613,594282942700,VM Manager,0.002670,-0.002670,0.000000,0.000000
+2025-03-17,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.256320,-0.256320,0.000000,0.000000
+2025-03-17,telconor,telconor,26233976157,cPanel & WHM on Ubuntu,0.000000,0.000000,0.000000,0.000000
+2025-03-17,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-17,Preventa,preventa-406613,594282942700,Cloud Monitoring,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-17,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-private-interconnect,gtd-private-interconnect,549706777962,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-17,Preventa,preventa-406613,594282942700,Cloud Pub/Sub,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-17,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-prod-gcve-uah-001,gtd-prj-prod-gcve-uah-001,206659077032,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-17,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,proyecto-prueba-video,proyecto-prueba-video-429220,359504021258,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-prj-monitoring-001,gtd-prj-monitoring-001,787596661561,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-17,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-17,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-17,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Networking,0.048060,-0.048060,0.000000,0.000000
+2025-03-17,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Networking,0.066750,-0.066750,0.000000,0.000000
+2025-03-17,gtd-prj-analitica-google,prime-apricot-429120-j5,890025842002,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,1969.151952,0.000000,0.000000,1969.151952
+2025-03-16,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1924.128000,0.000000,0.000000,1924.128000
+2025-03-16,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,1322.820349,0.000000,0.000000,1322.820349
+2025-03-16,,,,Support,398.781159,0.000000,0.000000,398.781159
+2025-03-16,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,303.045914,0.000000,0.000000,303.045914
+2025-03-16,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,198.904302,0.000000,0.000000,198.904302
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,147.871455,0.000000,0.000000,147.871455
+2025-03-16,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,70.562825,0.000000,0.000000,70.562825
+2025-03-16,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,53.519712,0.000000,0.000000,53.519712
+2025-03-16,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,24.171753,0.000000,0.000000,24.171753
+2025-03-16,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,21.937080,0.000000,0.000000,21.937080
+2025-03-16,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,19.199983,0.000000,0.000000,19.199983
+2025-03-16,Snowflake,datos-433017,964471574790,Cloud Composer,16.943759,0.000000,0.000000,16.943759
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,13.500764,-0.256320,0.000000,13.244444
+2025-03-16,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,7.647486,0.000000,0.000000,7.647486
+2025-03-16,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,5.658447,0.000000,0.000000,5.658447
+2025-03-16,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.346951,0.000000,0.000000,4.346951
+2025-03-16,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,3.622231,0.000000,0.000000,3.622231
+2025-03-16,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,3.341413,0.000000,0.000000,3.341413
+2025-03-16,telconor,telconor,26233976157,Compute Engine,3.286950,0.000000,0.000000,3.286950
+2025-03-16,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,3.203983,0.000000,0.000000,3.203983
+2025-03-16,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,3.203981,0.000000,0.000000,3.203981
+2025-03-16,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,3.230680,-0.026700,0.000000,3.203980
+2025-03-16,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.466581,0.000000,0.000000,2.466581
+2025-03-16,Snowflake,datos-433017,964471574790,Compute Engine,2.397192,0.000000,0.000000,2.397192
+2025-03-16,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,1.883800,0.000000,0.000000,1.883800
+2025-03-16,Preventa,preventa-406613,594282942700,Networking,1.601984,0.000000,0.000000,1.601984
+2025-03-16,Snowflake,datos-433017,964471574790,Networking,2.135968,-0.533984,0.000000,1.601984
+2025-03-16,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.106892,0.000000,0.000000,1.106892
+2025-03-16,Preventa,preventa-406613,594282942700,Cloud Storage,0.814727,0.000000,0.000000,0.814727
+2025-03-16,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.320384,0.000000,0.000000,0.320384
+2025-03-16,Snowflake,datos-433017,964471574790,Cloud Storage,0.194506,0.000000,0.000000,0.194506
+2025-03-16,Snowflake,datos-433017,964471574790,BigQuery,0.188208,0.000000,0.000000,0.188208
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Storage,0.088285,0.000000,0.000000,0.088285
+2025-03-16,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Storage,0.052119,0.000000,0.000000,0.052119
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.052111,0.000000,0.000000,0.052111
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.026037,0.000000,0.000000,0.026037
+2025-03-16,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.024142,0.000000,0.000000,0.024142
+2025-03-16,Snowflake,datos-433017,964471574790,Artifact Registry,0.012393,0.000000,0.000000,0.012393
+2025-03-16,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-16,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Storage,0.010640,0.000000,0.000000,0.010640
+2025-03-16,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-16,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001246,0.000000,0.000000,0.001246
+2025-03-16,Preventa,preventa-406613,594282942700,Compute Engine,0.000268,0.000000,0.000000,0.000268
+2025-03-16,Snowflake,datos-433017,964471574790,Dataplex,0.000033,0.000000,0.000000,0.000033
+2025-03-16,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Storage,0.000003,0.000000,0.000000,0.000003
+2025-03-16,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-16,telconor,telconor,26233976157,cPanel & WHM on Ubuntu,0.000000,0.000000,0.000000,0.000000
+2025-03-16,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.256320,-0.256320,0.000000,0.000000
+2025-03-16,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-16,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-16,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-16,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.056070,-0.056070,0.000000,0.000000
+2025-03-16,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-16,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-16,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,1969.151952,0.000000,0.000000,1969.151952
+2025-03-15,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1924.128000,0.000000,0.000000,1924.128000
+2025-03-15,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,1349.856245,0.000000,0.000000,1349.856245
+2025-03-15,,,,Support,396.665950,0.000000,0.000000,396.665950
+2025-03-15,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,280.367161,0.000000,0.000000,280.367161
+2025-03-15,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,198.904304,0.000000,0.000000,198.904304
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,107.157564,0.000000,0.000000,107.157564
+2025-03-15,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,69.983036,0.000000,0.000000,69.983036
+2025-03-15,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,53.519667,0.000000,0.000000,53.519667
+2025-03-15,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,22.238366,0.000000,0.000000,22.238366
+2025-03-15,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,21.937087,0.000000,0.000000,21.937087
+2025-03-15,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,19.199982,0.000000,0.000000,19.199982
+2025-03-15,Snowflake,datos-433017,964471574790,Cloud Composer,16.944180,0.000000,0.000000,16.944180
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,13.555382,-0.256320,0.000000,13.299062
+2025-03-15,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,7.647478,0.000000,0.000000,7.647478
+2025-03-15,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,5.664242,0.000000,0.000000,5.664242
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,4.631267,0.000000,0.000000,4.631267
+2025-03-15,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.346949,0.000000,0.000000,4.346949
+2025-03-15,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,3.340913,0.000000,0.000000,3.340913
+2025-03-15,telconor,telconor,26233976157,Compute Engine,3.291780,0.000000,0.000000,3.291780
+2025-03-15,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,3.203986,0.000000,0.000000,3.203986
+2025-03-15,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,3.203985,0.000000,0.000000,3.203985
+2025-03-15,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,3.236022,-0.032040,0.000000,3.203982
+2025-03-15,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.466581,0.000000,0.000000,2.466581
+2025-03-15,Snowflake,datos-433017,964471574790,Compute Engine,2.394994,0.000000,0.000000,2.394994
+2025-03-15,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,1.883801,0.000000,0.000000,1.883801
+2025-03-15,Preventa,preventa-406613,594282942700,Networking,1.601987,0.000000,0.000000,1.601987
+2025-03-15,Snowflake,datos-433017,964471574790,Networking,2.143983,-0.541996,0.000000,1.601987
+2025-03-15,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.101527,0.000000,0.000000,1.101527
+2025-03-15,Preventa,preventa-406613,594282942700,Cloud Storage,0.814727,0.000000,0.000000,0.814727
+2025-03-15,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.320387,0.000000,0.000000,0.320387
+2025-03-15,Snowflake,datos-433017,964471574790,BigQuery,0.188208,0.000000,0.000000,0.188208
+2025-03-15,Snowflake,datos-433017,964471574790,Cloud Storage,0.187067,0.000000,0.000000,0.187067
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Storage,0.088285,0.000000,0.000000,0.088285
+2025-03-15,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Storage,0.052119,0.000000,0.000000,0.052119
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.050282,0.000000,0.000000,0.050282
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.026086,0.000000,0.000000,0.026086
+2025-03-15,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.024141,0.000000,0.000000,0.024141
+2025-03-15,Snowflake,datos-433017,964471574790,Artifact Registry,0.012394,0.000000,0.000000,0.012394
+2025-03-15,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-15,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Storage,0.010640,0.000000,0.000000,0.010640
+2025-03-15,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-15,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001248,0.000000,0.000000,0.001248
+2025-03-15,Preventa,preventa-406613,594282942700,Compute Engine,0.000270,0.000000,0.000000,0.000270
+2025-03-15,Snowflake,datos-433017,964471574790,Dataplex,0.000035,0.000000,0.000000,0.000035
+2025-03-15,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Storage,0.000003,0.000000,0.000000,0.000003
+2025-03-15,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-15,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-15,telconor,telconor,26233976157,cPanel & WHM on Ubuntu,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-15,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Networking,0.040050,-0.040050,0.000000,0.000000
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-15,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.256320,-0.256320,0.000000,0.000000
+2025-03-15,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-15,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-15,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-15,Contact Center,contact-center-430619,38687230605,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-15,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,2118.114171,-197.040000,0.000000,1921.074171
+2025-03-14,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,1382.598145,0.000000,0.000000,1382.598145
+2025-03-14,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1924.128000,0.000000,-1282.752000,641.376000
+2025-03-14,,,,Support,403.295812,0.000000,0.000000,403.295812
+2025-03-14,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,283.376394,0.000000,0.000000,283.376394
+2025-03-14,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,198.904299,0.000000,0.000000,198.904299
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,162.832021,0.000000,0.000000,162.832021
+2025-03-14,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,69.155819,0.000000,0.000000,69.155819
+2025-03-14,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,53.519857,0.000000,0.000000,53.519857
+2025-03-14,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,21.937078,0.000000,0.000000,21.937078
+2025-03-14,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,19.199983,0.000000,0.000000,19.199983
+2025-03-14,Snowflake,datos-433017,964471574790,Cloud Composer,16.944250,0.000000,0.000000,16.944250
+2025-03-14,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,15.019303,0.000000,0.000000,15.019303
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,13.609539,-0.226950,0.000000,13.382589
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,9.873967,0.000000,0.000000,9.873967
+2025-03-14,primus-prj-prod-002,primus-prj-prod-002,871471108650,Compute Engine,9.586108,0.000000,0.000000,9.586108
+2025-03-14,primus-prj-prod-001,primus-prj-prod-001-442914,554598453048,Compute Engine,8.836834,0.000000,0.000000,8.836834
+2025-03-14,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,7.647479,0.000000,0.000000,7.647479
+2025-03-14,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,5.671961,0.000000,0.000000,5.671961
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,4.939603,0.000000,0.000000,4.939603
+2025-03-14,poc-cdn-gtd,poc-cdn-gtd,314090045903,Compute Engine,4.634592,0.000000,0.000000,4.634592
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.346940,0.000000,0.000000,4.346940
+2025-03-14,telconor,telconor,26233976157,Compute Engine,3.374998,0.000000,0.000000,3.374998
+2025-03-14,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,3.340922,0.000000,0.000000,3.340922
+2025-03-14,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,3.203984,0.000000,0.000000,3.203984
+2025-03-14,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,3.203983,0.000000,0.000000,3.203983
+2025-03-14,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,3.225341,-0.021360,0.000000,3.203981
+2025-03-14,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.466578,0.000000,0.000000,2.466578
+2025-03-14,Snowflake,datos-433017,964471574790,Compute Engine,2.338416,0.000000,0.000000,2.338416
+2025-03-14,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Networking,1.642375,0.000000,0.000000,1.642375
+2025-03-14,Preventa,preventa-406613,594282942700,Networking,1.601985,0.000000,0.000000,1.601985
+2025-03-14,Snowflake,datos-433017,964471574790,Networking,2.138640,-0.536655,0.000000,1.601985
+2025-03-14,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.085977,0.000000,0.000000,1.085977
+2025-03-14,Preventa,preventa-406613,594282942700,Cloud Storage,0.814735,0.000000,0.000000,0.814735
+2025-03-14,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.320385,0.000000,0.000000,0.320385
+2025-03-14,poc-cdn-gtd,poc-cdn-gtd,314090045903,Networking,0.315296,-0.034710,0.000000,0.280586
+2025-03-14,primus-prj-backup-001,primus-prj-backup-001,99535561616,Compute Engine,0.236267,0.000000,0.000000,0.236267
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,0.211152,0.000000,0.000000,0.211152
+2025-03-14,Snowflake,datos-433017,964471574790,BigQuery,0.188208,0.000000,0.000000,0.188208
+2025-03-14,Snowflake,datos-433017,964471574790,Cloud Storage,0.185477,0.000000,0.000000,0.185477
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Storage,0.088311,0.000000,0.000000,0.088311
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Reservation API,0.071486,0.000000,0.000000,0.071486
+2025-03-14,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Storage,0.052119,0.000000,0.000000,0.052119
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.035014,0.000000,0.000000,0.035014
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.024978,0.000000,0.000000,0.024978
+2025-03-14,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.024141,0.000000,0.000000,0.024141
+2025-03-14,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Compute Engine,0.021175,0.000000,0.000000,0.021175
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Storage,0.016380,0.000000,0.000000,0.016380
+2025-03-14,Snowflake,datos-433017,964471574790,Artifact Registry,0.012394,0.000000,0.000000,0.012394
+2025-03-14,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-14,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-14,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Cloud DNS,0.003107,0.000000,0.000000,0.003107
+2025-03-14,primus-prj-backup-001,primus-prj-backup-001,99535561616,Cloud Key Management Service (KMS),0.001859,0.000000,0.000000,0.001859
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001246,0.000000,0.000000,0.001246
+2025-03-14,Preventa,preventa-406613,594282942700,Compute Engine,0.000270,0.000000,0.000000,0.000270
+2025-03-14,Snowflake,datos-433017,964471574790,Dataplex,0.000036,0.000000,0.000000,0.000036
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Storage,0.000026,0.000000,0.000000,0.000026
+2025-03-14,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Storage,0.000019,0.000000,0.000000,0.000019
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Storage,0.000004,0.000000,0.000000,0.000004
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000001,0.000000,0.000000,0.000001
+2025-03-14,gtd-prj-dev-shd-net-001,gtd-prj-dev-shd-net-001,182314910960,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,primus-prj-prod-002,primus-prj-prod-002,871471108650,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Preventa,preventa-406613,594282942700,Cloud Pub/Sub,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,proyecto-prueba-video,proyecto-prueba-video-429220,359504021258,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Run Functions,0.000086,-0.000086,0.000000,0.000000
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Networking,0.005340,-0.005340,0.000000,0.000000
+2025-03-14,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-private-interconnect,gtd-private-interconnect,549706777962,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,Invoice,219.474181,0.000000,-219.474181,0.000000
+2025-03-14,poc-cdn-gtd,poc-cdn-gtd,314090045903,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,primus-prj-backup-001,primus-prj-backup-001,99535561616,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,,,,VMware Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Networking,0.042720,-0.042720,0.000000,0.000000
+2025-03-14,gtd-prj-prod-gcve-uah-001,gtd-prj-prod-gcve-uah-001,206659077032,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Networking,0.058740,-0.058740,0.000000,0.000000
+2025-03-14,telconor,telconor,26233976157,cPanel & WHM on Ubuntu,0.000000,0.000000,0.000000,0.000000
+2025-03-14,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-14,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.056070,-0.056070,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-14,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-prod-iaas-comp-001,gtd-prj-prod-iaas-comp-001,1030040975157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.226950,-0.226950,0.000000,0.000000
+2025-03-14,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Preventa,preventa-406613,594282942700,Cloud Monitoring,0.000000,0.000000,0.000000,0.000000
+2025-03-14,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-14,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,VMware Engine,2118.114170,-197.040000,0.000000,1921.074170
+2025-03-13,gtd-prj-backup-veeam-001,gtd-prj-backup-veeam-001,556560816349,Cloud Storage,1388.575608,0.000000,0.000000,1388.575608
+2025-03-13,,,,Support,405.745133,0.000000,0.000000,405.745133
+2025-03-13,gtd-prj-backup-001,gtd-prj-backup-001,18927912085,Cloud Storage,285.446741,0.000000,0.000000,285.446741
+2025-03-13,gtd-private-interconnect,gtd-private-interconnect,549706777962,Compute Engine,198.904307,0.000000,0.000000,198.904307
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Compute Engine,168.446471,0.000000,0.000000,168.446471
+2025-03-13,gtd-prj-suralis,gtd-prj-suralis,101376950122,Cloud Storage,68.436639,0.000000,0.000000,68.436639
+2025-03-13,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Storage,53.519488,0.000000,0.000000,53.519488
+2025-03-13,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Compute Engine,25.757554,0.000000,0.000000,25.757554
+2025-03-13,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Managed Service for Microsoft Active Directory,19.199987,0.000000,0.000000,19.199987
+2025-03-13,primus-prj-prod-002,primus-prj-prod-002,871471108650,Compute Engine,18.816058,0.000000,0.000000,18.816058
+2025-03-13,primus-prj-prod-001,primus-prj-prod-001-442914,554598453048,Compute Engine,17.490232,0.000000,0.000000,17.490232
+2025-03-13,Snowflake,datos-433017,964471574790,Cloud Composer,16.944185,0.000000,0.000000,16.944185
+2025-03-13,gtd-prj-codelpa,gtd-prj-codelpa,512988914564,Cloud Storage,15.015236,0.000000,0.000000,15.015236
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Networking,13.925371,-0.267000,0.000000,13.658371
+2025-03-13,poc-cdn-gtd,poc-cdn-gtd,314090045903,Compute Engine,8.840496,0.000000,0.000000,8.840496
+2025-03-13,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud SQL,7.647483,0.000000,0.000000,7.647483
+2025-03-13,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Compute Engine,6.975879,0.000000,0.000000,6.975879
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Vertex AI,6.585381,0.000000,0.000000,6.585381
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI,5.662697,0.000000,0.000000,5.662697
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI,4.346955,0.000000,0.000000,4.346955
+2025-03-13,telconor,telconor,26233976157,Compute Engine,3.359682,0.000000,0.000000,3.359682
+2025-03-13,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Networking,3.318834,0.000000,0.000000,3.318834
+2025-03-13,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Networking,3.203989,0.000000,0.000000,3.203989
+2025-03-13,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Networking,3.225347,-0.021360,0.000000,3.203987
+2025-03-13,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Networking,3.203987,0.000000,0.000000,3.203987
+2025-03-13,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Networking,3.203987,0.000000,0.000000,3.203987
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Reservation API,2.896177,0.000000,0.000000,2.896177
+2025-03-13,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Compute Engine,2.466579,0.000000,0.000000,2.466579
+2025-03-13,Snowflake,datos-433017,964471574790,Compute Engine,2.330019,0.000000,0.000000,2.330019
+2025-03-13,Preventa,preventa-406613,594282942700,Networking,1.601989,0.000000,0.000000,1.601989
+2025-03-13,Snowflake,datos-433017,964471574790,Networking,2.141318,-0.539329,0.000000,1.601989
+2025-03-13,Snowflake,datos-433017,964471574790,Cloud Monitoring,1.089847,0.000000,0.000000,1.089847
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery,1.056922,0.000000,0.000000,1.056922
+2025-03-13,Preventa,preventa-406613,594282942700,Cloud Storage,0.817601,0.000000,0.000000,0.817601
+2025-03-13,poc-cdn-gtd,poc-cdn-gtd,314090045903,Networking,0.598101,-0.064080,0.000000,0.534021
+2025-03-13,primus-prj-backup-001,primus-prj-backup-001,99535561616,Compute Engine,0.471441,0.000000,0.000000,0.471441
+2025-03-13,gtd-prj-suralis,gtd-prj-suralis,101376950122,Compute Engine,0.320389,0.000000,0.000000,0.320389
+2025-03-13,Snowflake,datos-433017,964471574790,Cloud Storage,0.191325,0.000000,0.000000,0.191325
+2025-03-13,Snowflake,datos-433017,964471574790,BigQuery,0.188208,0.000000,0.000000,0.188208
+2025-03-13,gtd-prj-prod-bastion-clientes,gtd-prj-prod-bastion-clientes,905451030397,Compute Engine,0.095207,0.000000,0.000000,0.095207
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Storage,0.088285,0.000000,0.000000,0.088285
+2025-03-13,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Storage,0.052119,0.000000,0.000000,0.052119
+2025-03-13,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Compute Engine,0.041366,0.000000,0.000000,0.041366
+2025-03-13,Preventa,preventa-406613,594282942700,Cloud Key Management Service (KMS),0.024137,0.000000,0.000000,0.024137
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Storage,0.020330,0.000000,0.000000,0.020330
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud DNS,0.015815,0.000000,0.000000,0.015815
+2025-03-13,Snowflake,datos-433017,964471574790,Artifact Registry,0.012398,0.000000,0.000000,0.012398
+2025-03-13,Preventa,preventa-406613,594282942700,Cloud DNS,0.011496,0.000000,0.000000,0.011496
+2025-03-13,primus-prj-prod-001,primus-prj-prod-001-442914,554598453048,Cloud Storage,0.007873,0.000000,0.000000,0.007873
+2025-03-13,gtd-prj-qa-shd-net-001,gtd-prj-qa-shd-net-001,30816487339,Cloud DNS,0.007185,0.000000,0.000000,0.007185
+2025-03-13,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-13,gtd-prj-prod-obs-vzor,gtd-prj-prod-obs-vzor,594063404612,Cloud DNS,0.005736,0.000000,0.000000,0.005736
+2025-03-13,primus-prj-backup-001,primus-prj-backup-001,99535561616,Cloud Key Management Service (KMS),0.003429,0.000000,0.000000,0.003429
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Artifact Registry,0.001244,0.000000,0.000000,0.001244
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Backup and DR Service,0.000969,0.000000,0.000000,0.000969
+2025-03-13,Preventa,preventa-406613,594282942700,Compute Engine,0.000274,0.000000,0.000000,0.000274
+2025-03-13,Snowflake,datos-433017,964471574790,Dataplex,0.000037,0.000000,0.000000,0.000037
+2025-03-13,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Cloud Storage,0.000003,0.000000,0.000000,0.000003
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,Cloud Logging,0.000002,0.000000,0.000000,0.000002
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Networking,0.032040,-0.032040,0.000000,0.000000
+2025-03-13,gtd-prj-net-hub-001,gtd-prj-net-hub-001,477209047095,VM Manager,0.197580,-0.197580,0.000000,0.000000
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-private-interconnect,gtd-private-interconnect,549706777962,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,primus-prj-m2vm-host-001,primus-prj-m2vm-host-001,678410470076,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,Demo IAGen - Cisco Mining,sincere-muse-439619-f5,11676406949,Artifact Registry,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-13,Snowflake,datos-433017,964471574790,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,poc-cdn-gtd,poc-cdn-gtd,314090045903,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Storage,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-13,telconor,telconor,26233976157,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Dataplex,0.000000,0.000000,0.000000,0.000000
+2025-03-13,,,,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-13,telconor,telconor,26233976157,cPanel & WHM on Ubuntu,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,Preventa,preventa-406613,594282942700,Cloud Monitoring,0.000000,0.000000,0.000000,0.000000
+2025-03-13,telconor,telconor,26233976157,Networking,0.064080,-0.064080,0.000000,0.000000
+2025-03-13,primus-prj-prod-001,primus-prj-prod-001-442914,554598453048,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Vertex AI Search,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,VMware Engine,1924.128000,0.000000,-1924.128000,0.000000
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Vertex AI Search,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-gcve-sistemas-002,gtd-prj-prod-gcve-sistemas-002,679602816297,Invoice,339.551976,0.000000,-339.551976,0.000000
+2025-03-13,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,Preventa,preventa-406613,594282942700,Cloud Pub/Sub,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Networking,0.141510,-0.141510,0.000000,0.000000
+2025-03-13,Preventa,preventa-406613,594282942700,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-13,primus-prj-prod-002,primus-prj-prod-002,871471108650,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,,,,VMware Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,Snowflake,datos-433017,964471574790,Secret Manager,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,Deep Learning VM,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-net-uah-001,gtd-prj-prod-net-uah-001,804020278966,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-gestion-tickets-poc,gtd-gestion-tickets-poc,604332034635,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-mvp-contracts-genai,gtd-mvp-contracts-genai,723871874985,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-shd-net-001,gtd-prj-prod-shd-net-001,275732325331,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-13,primus-prj-net-hub-001,primus-prj-net-hub-001,361970450318,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtp-prj-activedirectory-001,gtp-prj-activedirectory-001,221495248342,Compute Engine,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-billing-001,gtd-prj-billing-001,487666489813,BigQuery,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-document-gen-ai-mvp,analisis-de-contratos-ia,788241563089,BigQuery Storage API,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-bastion-sis-001,gtd-prj-prod-bastion-sis-001,926852352669,Networking,0.082770,-0.082770,0.000000,0.000000
+2025-03-13,primus-prj-backup-001,primus-prj-backup-001,99535561616,Cloud Logging,0.000000,0.000000,0.000000,0.000000
+2025-03-13,gtd-prj-prod-gcve-sistemas-001,gtd-prj-prod-gcve-sistemas-001,909532972476,Cloud Logging,0.000000,0.000000,0.000000,0.000000
