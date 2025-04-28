@@ -1,17 +1,14 @@
+from GTDReport.Email import Sender
 import os
-import smtplib
 import pandas as pd
 import datetime
 import numpy as np
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from email.mime.base import MIMEBase
-from email import encoders
 from sqlalchemy import create_engine
 from fpdf import FPDF
 from PIL import Image
 import Key 
 import Tabla2
+os.environ["POWER_AUTOMATE_ENDPOINT"] = "https://prod-10.brazilsouth.logic.azure.com:443/workflows/0905dfd89eca4839afb5543506ffc668/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Xrr4awVOx4RIHzNGNtxBc4wbDKSkuzvvm_NYgRdlGCc" 
 
 
 def generar_pdf_imagenes(archivos_adjuntos, nombre_pdf):
@@ -26,9 +23,15 @@ def generar_pdf_imagenes(archivos_adjuntos, nombre_pdf):
     pdf.output(nombre_pdf, "F")
     return nombre_pdf if os.path.exists(nombre_pdf) else None
 
-# Función para enviar el correo
+
 def enviar_correo():
-    remitente = "elasticsearch@grupogtd.com"
+    sender = Sender(
+        sender = "automatizacionyconsistenciadedatos@grupogtd.com",
+        sender_name = "Reportería e Informes",
+        team = None,
+        management = "Gerencia Corporativa de Tecnología y Operaciones"
+    )
+    
     destinatarios = ["multicloud.gtd@grupogtd.com"]
     copias = ["manuel.luque@grupogtd.com"]
     fecha = datetime.datetime.today().strftime('%Y-%m-%d')
@@ -36,21 +39,20 @@ def enviar_correo():
     print("\n Recuperando datos actualizados para la tabla...")  
     df = Tabla2.obtener_datos()
     tabla_resultado = Tabla2.generar_tabla(df)
-    
+
     if tabla_resultado is None or tabla_resultado.empty:
         print(" No se pudo generar la tabla.")
         return
     
     print("\n Tabla generada con éxito, incluyendo los datos de hoy.")
-
+    
     if fecha in tabla_resultado.columns:
         total_hoy = tabla_resultado[fecha].sum()
     else:
         total_hoy = 0
-
+        
     asunto = f"Costos de Azure {fecha} "
 
-    #dividir la tabla por el "partnername
     tablas_html = ""
     for partner in tabla_resultado["partnername"].unique():
         tabla_partner = tabla_resultado[tabla_resultado["partnername"] == partner]
@@ -68,14 +70,11 @@ def enviar_correo():
     """
 
     carpeta_adjuntos = "graficos_clientes"
-    smtp_username = "elasticsearch@grupogtd.com"
-    smtp_password = "H9vE]cLg(m$RhyhJvz6T9[W,m"
-
     ruta_carpeta = os.path.abspath(carpeta_adjuntos)
     if not os.path.exists(ruta_carpeta):
         print(f"La carpeta {ruta_carpeta} no existe.")
         return
-    
+
     archivos_adjuntos = []
     for partner_folder in os.listdir(ruta_carpeta):
         partner_path = os.path.join(ruta_carpeta, partner_folder)
@@ -83,41 +82,19 @@ def enviar_correo():
             archivos_adjuntos.extend(
                 os.path.join(partner_path, f) for f in os.listdir(partner_path) if f.lower().endswith(".jpg")
             )
-    
-    print(f"📎 Encontrados {len(archivos_adjuntos)} imágenes para generar el PDF.")
-    
-    # Generar PDF con las imágenes
+
+    print(f"📎 Encontradas {len(archivos_adjuntos)} imágenes para generar el PDF.")
     nombre_pdf = f"Costos_Azure_{fecha}.pdf"
     ruta_pdf = os.path.join(ruta_carpeta, nombre_pdf)
     pdf_generado = generar_pdf_imagenes(archivos_adjuntos, ruta_pdf)
-    
-    mensaje = MIMEMultipart()
-    mensaje["From"] = remitente
-    mensaje["To"] = ", ".join(destinatarios)
-    mensaje["Cc"] = ", ".join(copias)
-    mensaje["Subject"] = asunto
-    mensaje.attach(MIMEText(cuerpo_html, "html"))
-    
-    # Adjuntar el PDF generado
-    if pdf_generado:
-        try:
-            with open(ruta_pdf, "rb") as adjunto:
-                adjunto_mime = MIMEBase("application", "pdf")
-                adjunto_mime.set_payload(adjunto.read())
-            encoders.encode_base64(adjunto_mime)
-            adjunto_mime.add_header("Content-Disposition", f"attachment; filename={nombre_pdf}")
-            mensaje.attach(adjunto_mime)
-            print("✅ PDF adjuntado correctamente.")
-        except Exception as e:
-            print(f"🚨 Error al adjuntar el PDF {nombre_pdf}: {str(e)}")
-    
-    try:
-        with smtplib.SMTP('smtp.office365.com', 587) as sesion_smtp:
-            sesion_smtp.starttls()
-            sesion_smtp.login(smtp_username, smtp_password)
-            sesion_smtp.sendmail(remitente, destinatarios + copias, mensaje.as_string())
-        print(" Correo enviado exitosamente.")
-    except smtplib.SMTPAuthenticationError:
-        print(" Error: Autenticación fallida. Verifica usuario y contraseña SMTP.")
-    except Exception as e:
-        print(f" Error al enviar el correo: {str(e)}")
+
+    sender.send(
+        to = destinatarios,
+        cc = copias,
+        subject = asunto,
+        html_body = cuerpo_html,
+        attachment = [ruta_pdf] if pdf_generado else []
+    )
+
+    print("✅ Correo enviado exitosamente con la clase Sender.")
+
