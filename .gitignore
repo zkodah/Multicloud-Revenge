@@ -7,3 +7,4 @@ key_gcp.pymyenv/
 __pycache__/
 *.log
 .vscode/
+gcp/gtd-prj-billing-001-508c7bcbda9d.json
