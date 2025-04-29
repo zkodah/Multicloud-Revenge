@@ -32,7 +32,7 @@ def main():
     else:
         insertar_en_postgres(df)
         print("\nProceso de inserción finalizado.")
-        #envioAWS.enviar_correo()
+        envioAWS.enviar_correo()
 
 if __name__ == "__main__":
     main()

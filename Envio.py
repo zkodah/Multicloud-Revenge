@@ -32,7 +32,7 @@ def enviar_correo():
         management = "Gerencia Corporativa de Tecnología y Operaciones"
     )
     
-    destinatarios = ["multicloud.gtd@grupogtd.com"]
+    destinatarios = ["multicloud.gtd@grupogtd.com"] #multicloud.gtd@grupogtd.com
     copias = ["manuel.luque@grupogtd.com"]
     fecha = datetime.datetime.today().strftime('%Y-%m-%d')
 
@@ -96,5 +96,8 @@ def enviar_correo():
         attachment = [ruta_pdf] if pdf_generado else []
     )
 
-    print("✅ Correo enviado exitosamente con la clase Sender.")
+    print(" Correo enviado exitosamente con la clase Sender.")
 
+
+if __name__ == "__main__":
+    enviar_correo()

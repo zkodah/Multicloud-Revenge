@@ -98,6 +98,33 @@ def informacion_csv(ruta_local):
     except Exception as e:
         print("Error procesando el archivo CSV:", e)
 
+def suma_costInBillingCurrency(ruta_local):
+    try:
+        df = pd.read_csv(ruta_local)
+        if "costInBillingCurrency" not in df.columns:
+            raise ValueError("La columna 'costInBillingCurrency' no existe en el archivo CSV.")
+        suma = df["costInBillingCurrency"].sum()
+        print(f"Suma de 'costInBillingCurrency': {suma}")
+    except Exception as e:
+        print("Error al calcular la suma:", e)
+def suma_costInPricingCurrency(ruta_local):
+    try:
+        df = pd.read_csv(ruta_local)
+        if "costInPricingCurrency" not in df.columns:
+            raise ValueError("La columna 'costInPricingCurrency' no existe en el archivo CSV.")
+        suma = df["costInPricingCurrency"].sum()
+        print(f"Suma de 'costInPricingCurrency': {suma}")
+    except Exception as e:
+        print("Error al calcular la suma:", e)
+def suma_costInUsd(ruta_local):
+    try:
+        df = pd.read_csv(ruta_local)
+        if "costInUsd" not in df.columns:
+            raise ValueError("La columna 'costInUsd' no existe en el archivo CSV.")
+        suma = df["costInUsd"].sum()
+        print(f"Suma de 'costInUsd': {suma}")
+    except Exception as e:
+        print("Error al calcular la suma:", e)
 def main():
     container_client = conexion_blob()
     if container_client:
@@ -112,6 +139,9 @@ def main():
         ruta_local = descargar_blob01(container_client, archivo01)
         if ruta_local:
             informacion_csv(ruta_local)
+            suma_costInBillingCurrency(ruta_local)
+            suma_costInPricingCurrency(ruta_local)
+            suma_costInUsd(ruta_local)
 
 if __name__ == "__main__":
     main()
