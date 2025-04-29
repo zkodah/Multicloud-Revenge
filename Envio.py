@@ -8,7 +8,6 @@ from fpdf import FPDF
 from PIL import Image
 import Key 
 import Tabla2
-os.environ["POWER_AUTOMATE_ENDPOINT"] = "https://prod-10.brazilsouth.logic.azure.com:443/workflows/0905dfd89eca4839afb5543506ffc668/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Xrr4awVOx4RIHzNGNtxBc4wbDKSkuzvvm_NYgRdlGCc" 
 
 
 def generar_pdf_imagenes(archivos_adjuntos, nombre_pdf):
